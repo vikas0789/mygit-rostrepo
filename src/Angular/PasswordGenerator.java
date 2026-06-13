@@ -16,7 +16,7 @@ public class PasswordGenerator {
             password.append(CHAR_SET.charAt(index));
         }
 
-        System.out.println("Generated Password: " + password.toString());
         System.out.println("Generated Password1: " + password.toString());
+        System.out.println("Generated Password2: " + password.toString());
     }
 }
