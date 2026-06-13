@@ -17,5 +17,6 @@ public class PasswordGenerator {
         }
 
         System.out.println("Generated Password: " + password.toString());
+        System.out.println("Generated Password1: " + password.toString());
     }
 }
